@@ -134,3 +134,4 @@ Cài ở [đây](http://jpinsoft.net/deepsound)<br/>
          \  \ `_.   \_ __\ /__ _/   .-` /  /
      =====`-.____`.___ \_____/___.-`___.-'=====
                        `=---='
+                 THANKS FOR READING
