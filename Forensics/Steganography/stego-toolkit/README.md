@@ -16,3 +16,10 @@ $ stegoveritas_install_deps
 $ gem install zsteg
 ```
 ![image](https://user-images.githubusercontent.com/88471003/178878011-342219c9-eaf9-4203-8063-2f0b8a90373b.png)
+## stegdetect
+Tải [package](http://old-releases.ubuntu.com/ubuntu/pool/universe/s/stegdetect/stegdetect_0.6-6_amd64.deb) này về và dùng lệnh
+```
+$ sudo dpkg -i stegdetect_0.6-6_amd64.deb
+```
+![image](https://user-images.githubusercontent.com/88471003/178884181-f1d38ae4-b8e9-4b98-a987-b4467c438ab1.png)
+## stegbreak
