@@ -11,3 +11,8 @@ $ pip3 install stegoveritas
 $ stegoveritas_install_deps
 ```
 ![image](https://user-images.githubusercontent.com/88471003/178874711-b37fa702-0768-42ca-aac6-8a680787b507.png)
+## zsteg
+```
+$ gem install zsteg
+```
+![image](https://user-images.githubusercontent.com/88471003/178878011-342219c9-eaf9-4203-8063-2f0b8a90373b.png)
