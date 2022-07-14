@@ -114,3 +114,23 @@ Chạy file [này](https://github.com/DominicBreuker/stego-toolkit/blob/master/i
 Cài ở [đây](http://jpinsoft.net/deepsound)<br/>
 ![image](https://user-images.githubusercontent.com/88471003/178973124-a89f608c-19dd-4a7d-8212-70a470072927.png)
 ![image](https://user-images.githubusercontent.com/88471003/178973362-e7a1e6cb-b074-45f6-927e-72dd0a07e04d.png)
+## cloacked-pixel
+
+                       _oo0oo_
+                      o8888888o
+                      88" . "88
+                      (| -_- |)
+                      0\  =  /0
+                    ___/`---'\___
+                  .' \\|     |// '.
+                 / \\|||  :  |||// \
+                / _||||| -:- |||||- \
+               |   | \\\  -  /// |   |
+               | \_|  ''\---/''  |_/ |
+               \  .-\__  '-'  ___/-. /
+             ___'. .'  /--.--\  `. .'___
+          ."" '<  `.___\_<|>_/___.' >' "".
+         | | :  `- \`.;`\ _ /`;.`/ - ` : | |
+         \  \ `_.   \_ __\ /__ _/   .-` /  /
+     =====`-.____`.___ \_____/___.-`___.-'=====
+                       `=---='
