@@ -105,3 +105,12 @@ $ sudo apt install stegosuite
 ![image](https://user-images.githubusercontent.com/88471003/178969723-6d26230e-9274-4d39-b62d-a5379f4a2026.png)
 ![image](https://user-images.githubusercontent.com/88471003/178969355-5619d78f-4eaf-4358-95df-efc3526aacc6.png)
 ![image](https://user-images.githubusercontent.com/88471003/178969584-7fdd8b6c-db4c-4790-9f26-d8a1cf5b4aeb.png)
+## openpuff
+Chạy file [này](https://github.com/DominicBreuker/stego-toolkit/blob/master/install/openpuff.sh) để cài<br/>
+![image](https://user-images.githubusercontent.com/88471003/178969991-0c636058-3f4f-4821-8ac7-fbcc3e898a22.png)
+![image](https://user-images.githubusercontent.com/88471003/178971443-648d4c48-d252-43ec-bfa6-433fc99cb7bb.png)
+![image](https://user-images.githubusercontent.com/88471003/178972095-b3da4524-e2ac-4ad8-9649-7ddf6ee780b0.png)
+## DeepSound
+Cài ở [đây](http://jpinsoft.net/deepsound)<br/>
+![image](https://user-images.githubusercontent.com/88471003/178973124-a89f608c-19dd-4a7d-8212-70a470072927.png)
+![image](https://user-images.githubusercontent.com/88471003/178973362-e7a1e6cb-b074-45f6-927e-72dd0a07e04d.png)
