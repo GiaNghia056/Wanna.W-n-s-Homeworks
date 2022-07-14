@@ -65,3 +65,6 @@ Chạy file [này](https://github.com/DominicBreuker/stego-toolkit/blob/master/i
 $ sudo apt install steghide
 ```
 ![image](https://user-images.githubusercontent.com/88471003/178936491-ef0365b2-ee99-48f0-b984-29741bf4d8dd.png)
+## cloackedpixel
+Chạy file [này](https://github.com/DominicBreuker/stego-toolkit/blob/master/install/cloaked_pixel.sh) để cài
+![image](https://user-images.githubusercontent.com/88471003/178941946-ee67a2f3-4184-40ab-b743-e08c190e7f0e.png)
