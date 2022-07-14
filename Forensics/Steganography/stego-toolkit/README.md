@@ -23,3 +23,15 @@ $ sudo dpkg -i stegdetect_0.6-6_amd64.deb
 ```
 ![image](https://user-images.githubusercontent.com/88471003/178884181-f1d38ae4-b8e9-4b98-a987-b4467c438ab1.png)
 ## stegbreak
+## AudioStego
+```
+$ sudo apt-get install libboost-all-dev
+$ git clone https://github.com/danielcardeenas/AudioStego.git
+$ cd AudioStego
+$ mkdir build
+$ cd build
+$ cmake ..
+$ make 
+```
+Sau đó một file tên `hideme` được tạo ra.
+![image](https://user-images.githubusercontent.com/88471003/178886870-2ca74a88-8107-47b4-bb3b-1b51c1e3c963.png)
