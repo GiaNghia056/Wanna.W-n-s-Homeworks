@@ -76,3 +76,13 @@ Clone [repo](https://github.com/RobinDavid/LSB-Steganography) này về và ch�
 $ pip3 install stegpy
 ```
 ![image](https://user-images.githubusercontent.com/88471003/178953121-ef0fc982-08c6-4cc8-9a1d-145d162b593d.png)
+## Steg
+![image](https://user-images.githubusercontent.com/88471003/178963027-5a9bd38b-fd2d-490f-a50e-6fea9fb1de56.png)
+![image](https://user-images.githubusercontent.com/88471003/178963140-41516ae0-1b84-46ae-9f8b-a0210a78efbc.png)
+![image](https://user-images.githubusercontent.com/88471003/178963307-9be5f9f2-8c33-4ba8-ae32-ee5d70c7a4d6.png)
+![image](https://user-images.githubusercontent.com/88471003/178963438-de28c3a6-8b94-403d-838b-ffc2c48a6801.png)
+## Steganabara
+![image](https://user-images.githubusercontent.com/88471003/178963713-719ac7fd-c3d2-45e1-bd48-d4401fcc07a2.png)
+![image](https://user-images.githubusercontent.com/88471003/178964954-c9d38d55-f145-4ce1-960a-64143ae9fc49.png)
+
+
