@@ -58,4 +58,10 @@ $ chmod +x /usr/bin/outguess-0.13
 ```
 ![image](https://user-images.githubusercontent.com/88471003/178929739-8d5833fd-2c37-4442-a764-5fd7bc357f2b.png)
 ## stegano
+Chạy file [này](https://github.com/DominicBreuker/stego-toolkit/blob/master/install/stegano.sh) để cài
 ![image](https://user-images.githubusercontent.com/88471003/178932861-8bf78727-31a1-4c3a-990d-f76c174db19d.png)
+## Steghide
+```
+$ sudo apt install steghide
+```
+![image](https://user-images.githubusercontent.com/88471003/178936491-ef0365b2-ee99-48f0-b984-29741bf4d8dd.png)
