@@ -77,12 +77,31 @@ $ pip3 install stegpy
 ```
 ![image](https://user-images.githubusercontent.com/88471003/178953121-ef0fc982-08c6-4cc8-9a1d-145d162b593d.png)
 ## Steg
+Cài ở [đây](https://www.fabionet.org/)<br/>
 ![image](https://user-images.githubusercontent.com/88471003/178963027-5a9bd38b-fd2d-490f-a50e-6fea9fb1de56.png)
 ![image](https://user-images.githubusercontent.com/88471003/178963140-41516ae0-1b84-46ae-9f8b-a0210a78efbc.png)
 ![image](https://user-images.githubusercontent.com/88471003/178963307-9be5f9f2-8c33-4ba8-ae32-ee5d70c7a4d6.png)
 ![image](https://user-images.githubusercontent.com/88471003/178963438-de28c3a6-8b94-403d-838b-ffc2c48a6801.png)
 ## Steganabara
-![image](https://user-images.githubusercontent.com/88471003/178963713-719ac7fd-c3d2-45e1-bd48-d4401fcc07a2.png)
+Cài ở [đây](https://github.com/zardus/ctf-tools/blob/master/steganabara/install)<br/>
+![image](https://user-images.githubusercontent.com/88471003/178965107-677a2c22-fb54-49bd-8d59-bf1451704621.png)
 ![image](https://user-images.githubusercontent.com/88471003/178964954-c9d38d55-f145-4ce1-960a-64143ae9fc49.png)
-
-
+## Stegsolve
+Chạy file [này](https://github.com/zardus/ctf-tools/blob/master/stegsolve/install) để cài<br/>
+Tải file [này](https://drive.google.com/file/d/1T1tIOw6Z79J2125BYZe4esL8o5fdGpS-/view) để chạy thử<br/>
+![image](https://user-images.githubusercontent.com/88471003/178965777-566400ac-8039-48ec-81c3-5b51e6292060.png)
+![image](https://user-images.githubusercontent.com/88471003/178966442-100c83f4-2ba1-41a4-ba3b-54870cd9f418.png)
+![image](https://user-images.githubusercontent.com/88471003/178966645-1a1e4d8c-9578-4ba8-b5d7-070c083babe1.png)
+## Sonic Visualizer
+Cài ở [đây](https://www.sonicvisualiser.org/)<br/>
+Tải file [này](https://drive.google.com/file/d/1m5EvwE17OrJ6N8LZTcdefnFS0sWaG7a6/view) để chạy thử<br/>
+![image](https://user-images.githubusercontent.com/88471003/178968119-1ee6dc97-27b2-4f79-b723-569ca20b48b1.png)
+![image](https://user-images.githubusercontent.com/88471003/178968185-8bb17111-1bba-4a0a-aa94-3981ece040af.png)
+## Stegosuite
+```
+$ sudo apt install stegosuite
+```
+![image](https://user-images.githubusercontent.com/88471003/178968558-cf4b5851-9bac-42b7-9ea0-015006270489.png)
+![image](https://user-images.githubusercontent.com/88471003/178969723-6d26230e-9274-4d39-b62d-a5379f4a2026.png)
+![image](https://user-images.githubusercontent.com/88471003/178969355-5619d78f-4eaf-4358-95df-efc3526aacc6.png)
+![image](https://user-images.githubusercontent.com/88471003/178969584-7fdd8b6c-db4c-4790-9f26-d8a1cf5b4aeb.png)
