@@ -49,3 +49,13 @@ $ wget -O /usr/bin/jsteg https://github.com/lukechampine/jsteg/releases/download
 $ chmod +x /usr/bin/jsteg
 ```
 ![image](https://user-images.githubusercontent.com/88471003/178890980-90b2617e-f76d-49e5-a8cd-b89871fdd927.png)
+## mp3stego
+## openstego
+## outguess
+```
+$ wget -O /usr/bin/outguess-0.13 https://github.com/mmayfield1/SSAK/raw/master/programs/64/outguess_0.13
+$ chmod +x /usr/bin/outguess-0.13
+```
+![image](https://user-images.githubusercontent.com/88471003/178929739-8d5833fd-2c37-4442-a764-5fd7bc357f2b.png)
+## stegano
+![image](https://user-images.githubusercontent.com/88471003/178932861-8bf78727-31a1-4c3a-990d-f76c174db19d.png)
