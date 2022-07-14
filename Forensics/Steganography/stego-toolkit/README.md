@@ -33,5 +33,19 @@ $ cd build
 $ cmake ..
 $ make 
 ```
-Sau đó một file tên `hideme` được tạo ra.
+Sau đó một file tên `hideme` được tạo ra.<br/>
 ![image](https://user-images.githubusercontent.com/88471003/178886870-2ca74a88-8107-47b4-bb3b-1b51c1e3c963.png)
+## jphide/jpseek
+```
+$ wget -O /usr/bin/jphide https://github.com/mmayfield1/SSAK/raw/master/programs/64/jphide
+$ chmod +x /usr/bin/jphide
+
+$ wget -O /usr/bin/jpseek https://github.com/mmayfield1/SSAK/raw/master/programs/64/jpseek
+$ chmod +x /usr/bin/jpseek
+```
+## jsteg
+```
+$ wget -O /usr/bin/jsteg https://github.com/lukechampine/jsteg/releases/download/v0.1.0/jsteg-linux-amd64
+$ chmod +x /usr/bin/jsteg
+```
+![image](https://user-images.githubusercontent.com/88471003/178890980-90b2617e-f76d-49e5-a8cd-b89871fdd927.png)
