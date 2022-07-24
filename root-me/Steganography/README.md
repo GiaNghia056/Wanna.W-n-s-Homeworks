@@ -56,3 +56,30 @@ So I just seperate the text from the white spaces, and I get a file contains jus
 
 Use this [tool](https://ideone.com/l/whitespace) to compile the `Whitespace` code<br/>
 Flag: `RootMe{Wh1t3_Sp4c3}`
+## Yellow dots [Spying printers]
+You attend an interview for a forensic investigator job and they give you a challenge to solve as quickly as possible (having the Internet).
+They ask you to find the date of printing as well as the serial number of the printer in this document.
+You remain dubitative and accept the challenge.
+
+The answer is in the form:
+`hh:mm dd/mm/yyyy SSSSSSSS`
+with
+ - hh: the hour of the event
+ - mm: the minutes of the event
+ - dd: the day of the event
+ - MM: the month of the event
+ - yyyy: the year of the event
+ - SSSSSSSS: the serial number
+
+[ch18.png](http://challenge01.root-me.org/steganographie/ch18/ch18.png)
+#### Solution
+After reading the Instructables, I try to find the Yellow Dots on the scan image and I found this
+
+![image](https://user-images.githubusercontent.com/88471003/180653088-d7d2698f-2b4e-4de4-aa34-ce354a18cbe8.png)
+
+I also found this on Internet and I just stick to it to solve the yellow dots
+
+![image](https://user-images.githubusercontent.com/88471003/180653530-d8970abc-564a-4048-b9f3-3f54710e0cc8.png)
+![Solve](https://user-images.githubusercontent.com/88471003/180653557-ac7011b5-90d6-487b-8868-e47457fa7cd2.png)
+
+Flag: `11:05 27/07/2014 06922930`
