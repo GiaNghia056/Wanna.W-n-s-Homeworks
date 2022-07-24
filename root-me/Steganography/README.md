@@ -83,3 +83,28 @@ I also found this on Internet and I just stick to it to solve the yellow dots
 ![Solve](https://user-images.githubusercontent.com/88471003/180653557-ac7011b5-90d6-487b-8868-e47457fa7cd2.png)
 
 Flag: `11:05 27/07/2014 06922930`
+## TXT - George and Alfred [Steganography in literature]
+This challenge is only available in french language due to it specificity.<br/>
+[ch4.txt](http://challenge01.root-me.org/steganographie/ch4/ch4.txt)
+#### Solution
+If you see carefully, each word at 2nd and 3rd poem can be a sentence if you joins it.
+```
+Quand je vous jure, hélàs, un éternel hommage
+Voulez-vous qu’un instant je change de language
+Que ne puis-je, avec vous, goûter le vrai bonheur
+Je vous aime, ô ma belle, et ma plume en délire
+Couche sur le papier ce que je n’ose dire
+Avec soin, de mes vers, lisez le premier mot
+Vous saurez quel remède apporter à mes maux.
+
+Cette grande faveur que votre ardeur réclame
+Nuit peut-être à l’honneur mais répond à ma flamme.
+```
+So, the password is `Cette Nuit`
+## WAV - Noise analysis [A little bit music ?]
+The password has to be given in lowercase.<br/>
+[ch3.wav](http://challenge01.root-me.org/steganographie/ch3/ch3.wav)
+## Solution
+I open the wav file in Audacity and play it in `0.4x` speed but I couldn't hear anything that make senses so I use this [tool](https://mp3cut.net/vi/reverse-audio#) to reverse the audio.
+After reversing the audio, play it in `0.4x` speed again and listen to the sound carefully.<br/>
+Flag : `3b27641fc5h0`
