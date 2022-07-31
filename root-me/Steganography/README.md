@@ -108,3 +108,6 @@ The password has to be given in lowercase.<br/>
 I open the wav file in Audacity and play it in `0.4x` speed but I couldn't hear anything that make senses so I use this [tool](https://mp3cut.net/vi/reverse-audio#) to reverse the audio.
 After reversing the audio, play it in `0.4x` speed again and listen to the sound carefully.<br/>
 Flag : `3b27641fc5h0`
+## EXIF - Thumbnail [Russian dolls]
+Find the password hidden in this image in JPG format.<br/>
+[ch10.jpg](http://challenge01.root-me.org/steganographie/ch10/ch10.jpg)
