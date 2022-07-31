@@ -104,10 +104,59 @@ So, the password is `Cette Nuit`
 ## WAV - Noise analysis [A little bit music ?]
 The password has to be given in lowercase.<br/>
 [ch3.wav](http://challenge01.root-me.org/steganographie/ch3/ch3.wav)
-## Solution
+#### Solution
 I open the wav file in Audacity and play it in `0.4x` speed but I couldn't hear anything that make senses so I use this [tool](https://mp3cut.net/vi/reverse-audio#) to reverse the audio.
 After reversing the audio, play it in `0.4x` speed again and listen to the sound carefully.<br/>
 Flag : `3b27641fc5h0`
 ## EXIF - Thumbnail [Russian dolls]
 Find the password hidden in this image in JPG format.<br/>
 [ch10.jpg](http://challenge01.root-me.org/steganographie/ch10/ch10.jpg)
+#### Solution
+Use `binwalk` and I have this
+```
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             JPEG image data, JFIF standard 1.01
+30            0x1E            TIFF image data, big-endian, offset of first image directory: 8
+202           0xCA            JPEG image data, JFIF standard 1.01
+232           0xE8            TIFF image data, big-endian, offset of first image directory: 8
+404           0x194           JPEG image data, JFIF standard 1.01
+```
+I used `binwalk -e` but it didn't extract anything. So I try `binwalk --dd='.*`.
+![image](https://user-images.githubusercontent.com/88471003/182020008-01725d7e-186e-40e9-9789-a119cb1a894b.png)
+
+Flag : `B33r1sG00d!`
+## WAV - Spectral analysis [Fast Fourier Transform]
+Interesting mix.
+[ch7.wav](http://challenge01.root-me.org/steganographie/ch7/ch7.wav)
+#### Solution
+View `Spectrogram` of the sound by [Sonic Visualiser](https://www.sonicvisualiser.org/)
+![image](https://user-images.githubusercontent.com/88471003/182020383-66b6cb4b-7286-457b-997f-01d634490de3.png)
+
+Flag : `secret-password`
+## APNG - Just A PNG [Just a matter of time]
+Your joking colleague challenges you to find the message hidden in this animation.
+[ch21.apng](http://challenge01.root-me.org/steganographie/ch21/ch21.apng)
+#### Solution
+Use [APNG Disassemble](http://apngdis.sourceforge.net/) to deconstruct the APNG file into a sequence of PNG frames.
+![image](https://user-images.githubusercontent.com/88471003/182020821-a90ea9ab-3a0f-4ae2-9e3d-4548c404c77c.png)
+<br/>I used the delay of each frame as an ASCII code to get a ASCII character.
+![image](https://user-images.githubusercontent.com/88471003/182021651-a765ffc3-8a19-403f-93a0-a207960c594d.png)
+Combine them by this script to get the flag.
+```python
+#!/usr/bin/python3
+pw=""
+for i in range(1,14): 
+    if i < 10:
+        i = "0" + str(i)
+    f = open("apngframe" + str(i) + ".txt")
+    l = f.read()
+    pw += chr(int(l.split("/")[0][6:]))
+print(pw)
+```
+Flag : `P3PoFRoG`
+## Base Jumper [Data Exiftration]
+It seems steganography is all the rage with attackers exfiltrating data these days.
+Look at this example I found, I think it has a flag inside.
+[ch15.jpg](http://challenge01.root-me.org/steganographie/ch15/ch15.jpg)
+#### Solution
