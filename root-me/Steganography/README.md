@@ -160,3 +160,7 @@ It seems steganography is all the rage with attackers exfiltrating data these da
 Look at this example I found, I think it has a flag inside.
 [ch15.jpg](http://challenge01.root-me.org/steganographie/ch15/ch15.jpg)
 #### Solution
+Use `exiftool` and see some base64 strings seperated by **dot** `.` in the Comment
+![image](https://user-images.githubusercontent.com/88471003/182022800-024f9fc1-002b-499e-b530-ca47be364eed.png)
+I use [paddingangraph](https://gist.github.com/dhondta/90a07d9d106775b0cd29bb51ffe15954) to decode those base64 strings.<br/>
+Then I get some base32 strings
