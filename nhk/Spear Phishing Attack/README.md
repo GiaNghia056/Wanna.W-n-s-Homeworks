@@ -13,4 +13,38 @@ Hậu quả để lại của Spear Phishing Atack có thể rất nghiêm trọ
 - Lộ thông tin cá nhân
 - Máy tính và các tài khoản dịch vụ trên mạng của bạn có thể bị tấn công
 
-## Các dấu hiệu để nhận biết và phòng tránh
+## Các dấu hiệu để nhận biết
+- Kẻ lừa đảo thường đưa ra một thời hạn gấp rút để làm việc gì đó có vẻ quan trọng nhằm đánh lạc hướng bạn khỏi phần còn lại của Email, tin nhắn,...
+- Kẻ lừa đảo có thể gây áp lực buộc bạn phải phản hồi bằng cách:
+  - Giả vờ là một người cấp trên của bạn
+  - Giả vờ là một đồng nghiệp đáng tin
+  - Giả vờ là một công ty
+- Kẻ lừa đảo có thể gửi đến một email mang tính tò mò rất cao
+
+## Cách xử trí
+- Suy nghĩ trước khi "click" vào gì đó
+- Xác minh thông tin liên lạc là chính chủ
+- Hỏi ý mọi người xung quanh về thứ gì đó lạ trước khi phản hồi
+- Đừng hoảng loạn khi bạn đã lỡ "click" thứ gì đó bạn cho là đáng ngờ. Thay vào đó hãy báo ngay cho người có chuyên môn để giúp đỡ bạn.
+//
+//                       _oo0oo_
+//                      o8888888o
+//                      88" . "88
+//                      (| -_- |)
+//                      0\  =  /0
+//                    ___/`---'\___
+//                  .' \\|     |// '.
+//                 / \\|||  :  |||// \
+//                / _||||| -:- |||||- \
+//               |   | \\\  -  /// |   |
+//               | \_|  ''\---/''  |_/ |
+//               \  .-\__  '-'  ___/-. /
+//             ___'. .'  /--.--\  `. .'___
+//          ."" '<  `.___\_<|>_/___.' >' "".
+//         | | :  `- \`.;`\ _ /`;.`/ - ` : | |
+//         \  \ `_.   \_ __\ /__ _/   .-` /  /
+//     =====`-.____`.___ \_____/___.-`___.-'=====
+//                       `=---='
+//
+//
+//     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
